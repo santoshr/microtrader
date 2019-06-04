@@ -1,5 +1,5 @@
 FROM openjdk:8-jdk-alpine
-MAINTAINER Justin Menga <justin.menga@gmail.com>
+MAINTAINER Santosh Rai <san_rai@hotmail.com>
 LABEL application=microtrader-dev
 
 # Install system dependencies
